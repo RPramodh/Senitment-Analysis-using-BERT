@@ -10,20 +10,14 @@ This project employs BERT (Bidirectional Encoder Representations from Transforme
 
 ## Technologies Used
 - Python
-- TensorFlow
+- PyTorch
 - Hugging Face Transformers Library
+- Google BERT LLM
 
 ## Getting Started
 1. Clone the repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Run the sentiment analysis script on your text data using the provided notebook or script.
-
-## Dataset
-The model was trained and evaluated on [Dataset Name], containing [Number of Samples] labeled examples for sentiment analysis.
-
-## Results
-- Accuracy: [Your Accuracy]
-- Precision, Recall, F1 Score: [Metrics]
 
 ## Acknowledgments
 - This project makes use of the Hugging Face Transformers library, simplifying interactions with transformer models like BERT.
@@ -37,9 +31,9 @@ Feel free to contribute by opening issues, providing suggestions, or submitting 
 - Fine-tune hyperparameters for improved performance.
 
 ## License
-This project is licensed under the [Your License] License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
-For any inquiries or collaborations, please contact [Your Name] at [Your Email].
+For any inquiries or collaborations, please contact Pramodh R at officialpramodh@gmail.com
 
 Enjoy sentiment analysis with BERT!
